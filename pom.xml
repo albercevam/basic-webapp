@@ -9,9 +9,9 @@
 	<url>http://maven.apache.org</url>
 
 	<properties>
-		<!-- Java 7 -->
-		<maven.compiler.source>7</maven.compiler.source>
-		<maven.compiler.target>7</maven.compiler.target>
+		<!-- Java 6 -->
+		<maven.compiler.source>6</maven.compiler.source>
+		<maven.compiler.target>6</maven.compiler.target>
 		<webapp.name>basic-webapp</webapp.name>
 	</properties>
 
