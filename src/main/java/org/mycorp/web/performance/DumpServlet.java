@@ -1,4 +1,4 @@
-package org.mycorp.web.performance;
+package org.mycorp.web.performance
 
 import java.io.IOException;
 import java.io.PrintWriter;
